@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "menu":{
+    "global": {
+      "label": "Config.global",
+      "formFields": {
+        "global.mailChimpAPIKey": {
+          "type": "inputText",
+          "required": true,
+          "label": "Config.globalMailChimpAPIKey",
+          "options": {
+            "tooltip": "Config.globalMailChimpAPIKeyTooltip",
+            "defaultValue": ""
+          }
+        }
+      }
+    }
+  }
+}
