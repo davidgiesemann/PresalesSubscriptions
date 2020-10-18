@@ -7,7 +7,7 @@
         "global.mailChimpAPIKey": {
           "type": "inputText",
           "required": true,
-          "label": "Config.globalMailChimpAPIKey",
+          "label": "mailchimp API key",
           "options": {
             "tooltip": "Config.globalMailChimpAPIKeyTooltip",
             "defaultValue": ""
