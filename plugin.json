@@ -1,0 +1,13 @@
+{
+  "name"              : "PresaleSubscriptions",
+  "namespace"         : "PresaleSubscriptions",
+  "type"              : "widget",
+  "version"           : "0.0.1",
+  "isClosedSource"    : false,
+  "pluginIcon"        : "icon_plugin_xs.png",
+  "description"       : "Missy Rocks PreSale-Anmeldungen via Mailchimp",
+  "author"            : "David Giesemann",
+  "authorIcon"        : "icon_author_xs.png",
+  "email"             : "info@david-giesemann.de",
+  "phone"             : "+49 152 2311 2602"
+}
