@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "menu":{
     "global": {
-      "label": "Config.global",
+      "label": "Einstellungen",
       "formFields": {
         "global.mailChimpAPIKey": {
           "type": "inputText",
